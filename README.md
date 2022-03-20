@@ -7,7 +7,6 @@ This is a shadow repository for the Fortunate Trading application's front-end. U
 ![Alt text](/LCDetails.PNG?raw=true "LC Details") <br /> <br />
 ![Alt text](/CreateTransactionModal.png?raw=true "Create Transaction Modal") <br /> <br />
 ![Alt text](/AccountList.png?raw=true "Account List") <br /> <br />
-![Alt text](/AccountList.png?raw=true "Account List") <br /> <br />
 ![Alt text](/CreateAccountModal.png?raw=true "Create Account Modal") <br /> <br />
 ![Alt text](/CreateCustomerModal.png?raw=true "Create Customer Modal") <br /> <br />
 ![Alt text](/PreviewPdf.PNG?raw=true "Preview PDF") <br /> <br />
